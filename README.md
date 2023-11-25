@@ -8,7 +8,7 @@ It's me, Krischal Khanal.
 IT skills I'm confident about:
 1. Markdown:
     - I use markdown for almost all of my notetaking in IT field.
-    - I routinely use $\KaTeX$ and <b>html</b> for prettifying the output.
+    - I routinely use $\KaTeX$ and <b style="font-family:Tahoma; color:white; border: 2px solid green; border-radius:20px; padding:5px; margin:5px; background-color:brown;">HTML/CSS</b> for prettifying the output.
 
 2. $\LaTeX$: I make use of latex for various high quality note taking and report making.
 
